@@ -72,7 +72,7 @@ sudo docker compose down -v      # с их удалением
 sudo docker compose stop         # без удаления
 ```
 
-## Проект в интернете
+## Проект в интернете(UPD: на данный момент доступ к доменному имени утерян)
 Проект запущен и доступен по [адресу](https://foodgramtrlbdyth.ddns.net/recipes)
 Доступ в админ-зону [здесь](https://foodgramtrlbdyth.ddns.net/admin/)
 Username: root
